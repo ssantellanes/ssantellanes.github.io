@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "The Stuff"
   avatar           : "IMG_2648.jpeg"
-  bio              : "PhD Candidate at the UofO"
+  bio              : "PhD Candidate at the UofO" 
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
   location         : "Eugene, OR, USA"
   employer         :
   pubmed           : 
