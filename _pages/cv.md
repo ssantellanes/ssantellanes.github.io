@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics (Computation), UT Austin, 2017
+* M.S. in Meteorology and Atmospheric Science, Penn State, 2020
+* Ph.D in Geophysics, University of Oregon, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2017-2019: Graduate Research Assistant
+  * Penn State
+  * Theme: Boundary Layer Meterology
+  * Supervisor: David Stensrud and Matthew Kumjian
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2019-Present: Graduate Research Fellow
+  * University of Oregon
+  * Theme: Tsunamis
+  * Supervisor: Diego Melgar
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* Tsunami Modeling
+* Geodesy
 
 Publications
 ======
