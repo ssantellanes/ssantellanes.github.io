@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Environmental Conditions Associated with Horizontal Convective Rolls, Cellular Convection, and No Organized Circulations"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 
+excerpt: 'HCRS.'
+date: 2021-02-22
+venue: 'Monthly Weather Review'
+paperurl: 'https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-20-0207.1/MWR-D-20-0207.1.xml'
+citation: 'Santellanes, S. R., Young, G. S., Stensrud, D. J., Kumjian, M. R., & Pan, Y. (2021). Environmental Conditions Associated with Horizontal Convective Rolls, Cellular Convection, and No Organized Circulations. Monthly Weather Review, 149(5), 1305-1316.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://ssantellanes.github.io/files/[15200493 - Monthly Weather Review] Environmental Conditions Associated with Horizontal Convective Rolls, Cellular Convection, and No Organized Circulations.pdf)
+
+Recommended citation: Santellanes, S. R., Young, G. S., Stensrud, D. J., Kumjian, M. R., & Pan, Y. (2021). Environmental Conditions Associated with Horizontal Convective Rolls, Cellular Convection, and No Organized Circulations. Monthly Weather Review, 149(5), 1305-1316.
