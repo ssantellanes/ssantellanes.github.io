@@ -1,6 +1,6 @@
 ---
 title: "Lighthouse on the Oregon Coast"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG_2662.jpeg'>"
+excerpt: "Went for a trail run and saw this beauty. <br/><img src='/images/IMG_2662.jpeg'>"
 collection: portfolio
 ---
 
