@@ -7,8 +7,7 @@ venue: "University of Oregon, Department ERTH"
 date: 2021-01-01
 location: "Eugene, OR"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant (TA) for ERTH 102 for Winter 2021.
 
 Duties
 ======
