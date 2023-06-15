@@ -22,7 +22,7 @@ Work experience
   * Theme: Boundary Layer Meterology
   * Supervisor: David Stensrud and Matthew Kumjian
 
-* Fall 2019-Present: Graduate Research Fellow
+* Fall 2019-Present: Graduate Employee
   * University of Oregon
   * Theme: Tsunamis
   * Supervisor: Diego Melgar
