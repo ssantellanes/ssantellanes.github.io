@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant ERTH 137"
 collection: teaching
 type: "ERTH 137"
 permalink: /teaching/2023-winter-teaching-1
