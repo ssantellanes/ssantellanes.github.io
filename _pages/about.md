@@ -11,4 +11,4 @@ Howdy, I'm Sean Santellanes! A PhD candidate at the University of Oregon. I curr
 
 ## Sand Point Earthquake and Tsunami
 
-I have been working hard on modeling the Sand Point earthquake and its attendant tsunami to investigate how the smallest earthquake of 2020-2021 Alaskan sequence was able to produce the largest tsunami of the trio. More on that coming soon! - Jan 2022
+I have been working hard on modeling the Sand Point earthquake and its attendant tsunami to investigate how the smallest earthquake of 2020-2021 Alaskan sequence was able to produce the largest tsunami of the trio. More on that coming soon! - June 2023
