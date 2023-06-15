@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant ERTH 102"
 collection: teaching
 type: "ERTH 102"
 permalink: /teaching/2021-winter-teaching-1
