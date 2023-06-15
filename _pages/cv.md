@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics (Computation), UT Austin, 2017
 * M.S. in Meteorology and Atmospheric Science, Penn State, 2020
-* Ph.D in Geophysics, University of Oregon, 2023 (expected)
+* Ph.D in Geophysics, University of Oregon, 2024 (expected)
 
 Work experience
 ======
