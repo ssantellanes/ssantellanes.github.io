@@ -26,10 +26,16 @@ Work experience
   * University of Oregon
   * Theme: Tsunamis
   * Supervisor: Diego Melgar
+* June 2022-Present: Year-round intern
+  * Sandia National Laboritories - Albuquerque, NM, USA
+  * Theme: Infrasound Deep Learning
+  * Mentor: Sarah Albert
   
 Skills
 ======
 * Python Programming
+* Julia Programming
+* Deep learning/machine learning
 * Tsunami Modeling
 * Geodesy
 
