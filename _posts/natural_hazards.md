@@ -1,7 +1,7 @@
 ---
 title: ’Climate Change’s Effects of Natural Disasters’
 date: 2024-04-01
-permalink: /posts/2024/04/natural_hazards/
+permalink: /_posts/2024/04/natural_hazards/
 ---
 
 ## To Eugene, the Long Way Around
