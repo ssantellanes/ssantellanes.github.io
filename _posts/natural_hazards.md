@@ -1,5 +1,5 @@
 ---
-title:’Climate Change’s Effects of Natural Disasters’
+title: ’Climate Change’s Effects of Natural Disasters’
 date: 2024-04-01
 permalink: /posts/2024/04/natural_hazards/
 ---
