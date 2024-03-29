@@ -1,0 +1,30 @@
+---
+title:’Climate Change’s Effects of Natural Disasters’
+date: 2024-04-01
+permalink: /posts/2024/04/natural_hazards.md 
+---
+
+## To Eugene, the Long Way Around
+
+My scientific research is geared towards understanding natural disasters and how they affect people. The disaster I devout the lion’s share of time to are tsunamis — either seismically or volcanically generated. The vast majority of people who study natural disasters have some sort of connection to their disaster of choice. Either they were affected by it as a youth or they were affected by the knock-on effects. I grew up in Uvalde, which as most can attest, is pretty far from any large body of water! My main inspiration for studying tsunamis came from two events that happened during my undergraduate career: 1.) I attended a seminar about the Great Tohoku Earthquake and Tsunami when I was interning for the USGS at Menlo Park, CA and 2.) I attended a seminar about the 1700 Cascadia Earthquake and Tsunami by Brian Atwater — again at Menlo Park. 
+
+I had been working on doing geolocations of videos the USGS did in the immediate aftermath of the 2015 Nepal Earthquake. It was depressing! X amount of people died in this village. Y amount in this one. Z amount in another. I was very close to deciding to do exploration geophysics instead. And then I saw those seminars, and I knew I had to do something. 
+
+## What do you do?
+
+My research is a bit all over the place. UT Austin did not have a geophysical fluid dynamics course — vital for understanding how tsunamis move —, and I was not going to go to that university south of Bryan for one course. I ended up going to Penn State for a masters in Meteorology, where I became versed in fluids and where I became good friends with people who study climate, hurricanes, and tornadoes. My research there focused on the boundary layer, which is the lowest 2 km of the atmosphere. The work I did for that has been vital for understanding the state of the atmosphere prior to severe weather events in the Plains. 
+
+In Oregon, I’ve kept with the theme of understanding Earth systems prior to disasters. My research has been used to measure the open ocean background state, using Deep-ocean Assessment and Reporting of Tsunamis (DART) stations, so that we can make more accurate assessments of tsunami threats. That research has been used to evaluate the 2022 Hunga Tonga Hunga Ha’apai Tsunami and the strange tsunami of the 2020 Sand Point Earthquake. The hope is that one day soon my research can help bridge the regional tsunami alert gap. 
+
+## So many disasters, which should I worry about‽
+
+Climate Change. Why? It makes every natural disaster worse. Yes, even tsunamis and earthquakes! Whether an earthquake occurs has little to do with climate change, but its knock on effects do. The 1700 Cascadia Earthquake occurred on January 26, 1700, when the Pacific Northwest is in the middle of the wet season. If it occurred today, we would have to be worried about the time of year. An earthquake that occurs in fire season could cause wildfires at a time when the region would not have the resources to support fire suppression. That’s without considering the tsunami, the bridge collapses, the oil spills, etc. It’ll be a bad day. 
+
+## How Climate Change affects natural disaster research
+
+Believe it or not, but most people who study natural disasters focus on one disaster. And, it makes sense. Earthquake dynamics and subduction zones are hard to study. Tornadoes are hard to study. It’s better to be specialized in one area. Still, there is an increasing effort to understand how disasters will be impacted by Climate Change. In tsunami research, we are beginning to factor in rising sea levels to our models. Why?
+
+A hazardous tsunami is defined as anything over 30 cm (~1 ft). The typical tidal range for Long Beach, CA can be up to 100 cm (~3 ft). By 2050, it is forecasted that sea level will rise 60 cm (~2 ft). So, we must take into account sea level rise. The buildings that are built today will have to be built with that knowledge because we want them to last a long time. The math and physics are a bit harder to do when factoring in Climate Change, but it is not impossible. New studies have shown that Long Beach, CA will be severely impacted by Climate Changed enhanced tsunamis. And, it’s not just Long Beach. Every coastal community is more at risk. How much more? We’re working on it. It’s a big challenge in my field.
+
+As we understand how sea levels rise, we can understand what the past was like when tsunamis occurred when sea levels were lower. Big tsunamis are rare, and records go back hundreds of years. However, tsunami scientists did not have a great understanding of past sea levels, especially across the whole Pacific. We were stuck in our little box, trying to figure out how and why tsunamis generate. By combining our research with that of geologists, we can make more accurate inundation maps for past tsunamis at a local and regional scale. So, it’s something exciting that came by way of considering Climate Change effects. 
+
