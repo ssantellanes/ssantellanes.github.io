@@ -26,7 +26,7 @@ Work experience
   * University of Oregon
   * Theme: Tsunamis
   * Supervisor: Diego Melgar
-* June 2022-Present: Year-round intern
+* June 2022-Jan 2024: Year-round intern
   * Sandia National Laboritories - Albuquerque, NM, USA
   * Theme: Infrasound Deep Learning
   * Mentor: Sarah Albert
